@@ -2,9 +2,6 @@
 Datasets: A folder which contains the datasets used for the projects.<br> <br>
 ```
 Datasets¬
-        |----ipynb_checkpoints¬
-        |                      |----home-countries-list-checkpoint.csv
-        |                      |----imports-85-checkpoint.data
         |----avocado-prices¬
         |                   |----.ipynb_checkpoints
         |                   |----avocado.csv
