@@ -11,7 +11,6 @@ Datasets¬
         |                         |----4910797b-ee55-40a7-8668-10efd5c1b960.csv
         |                         |----SubmissionFormat.csv
         |----diamonds¬
-        |             |----.ipynb_checkpoints
         |             |----catboost_info
         |             |----diamonds_preds.ipynb
         |             |----diamonds.csv
