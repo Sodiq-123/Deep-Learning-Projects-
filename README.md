@@ -15,7 +15,6 @@ Datasets¬
         |             |----diamonds_preds.ipynb
         |             |----diamonds.csv
         |----fifa19¬
-        |           |----.ipynb_checkpoints
         |           |----data.csv
         |           |----FIFA.ipynb
         |----netflix-shows¬
