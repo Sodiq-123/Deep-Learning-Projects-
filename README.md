@@ -4,8 +4,7 @@ Datasets: A folder which contains the datasets used for the projects.<br> <br>
 ```
 Datasets¬
         |----avocado-prices(A dataset that contains prices of avocados from different types and regions in different years from 2015 to 2018. The analysis and machine learning prediction on the data is (here)[https://github.com/Sodiq-123/ML-DL-Projects/blob/main/avocado-prices.ipynb] )¬
-        |                   |----.ipynb_checkpoints
-        |                   |----avocado.csv
+        |                                                                      |----avocado.csv
         |----data_driven datasets¬
         |                         |----0bf8bc6e-30d0-4c50-956a-603fc693d966.csv
         |                         |----702ddfc5-68cd-4d1d-a0de-f5f566f76d91.csv
